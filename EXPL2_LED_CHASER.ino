@@ -3,10 +3,7 @@ void setup()
 {
  for(int a=0;a<=6;a++)
   pinMode(a, OUTPUT);
-
-
 }
-
 void loop()
 {
   i=j-1;
