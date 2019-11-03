@@ -1,0 +1,11 @@
+THEORY:
+The concept used in this experiment is that we can input some signals and use them in whichever way we want, like in this experiment we used the click input signal to glow the LED.
+PROBLEMS AND TROUBLESHOOTING:
+There are few problems e when connecting the wires and led on breadboard, if you are not clear with the working of bread board then it would be really difficult to connect.  Then there is coding, you just need to know the basic coding, then it won’t be that difficult.
+
+PRECAUTIONS:
+The connections on breadboard should be done carefully, otherwise the LED might not blink. If there is any semantic mistake in the code then the LED won’t glow too, so it’s better to code with free and open mind.
+
+
+LEARNING OUTCOMES:
+In this experiment we learned how to use a switch in arduino and how to use its signal to glow LED.
