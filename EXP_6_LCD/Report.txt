@@ -1,0 +1,43 @@
+                                             EXPERIMENT 
+AIM:   Design a Programmable Digital Data Display system.
+APPARATUS:  Arduino, LCD, variable resistance, wires, Breadboard, resistance.
+
+THEORY: 
+•	CONCEPTS USED : 
+•	Here we used the concepts of LCD, i.e. Liquid Crystal Display. 
+•	Also we have used the concepts of the potentiometer (variable resistance) in this task.
+•  Here we have used the concept of inbuilt Library function #include<LiquidCrystal.h>
+•  LEANING AND OBSERVATION: 
+•  The liquid-crystal display is a flat-panel display.
+   It can be used to display the output of some of the operation. 
+   It does not directly emit the light rather it used some kind of reflector which is used to reflect the light and produce some images in the color.
+Here we have connected the pins of the LCD with the following pins of the Arduino: 
+•	LCD RS pin to digital pin 12
+•	LCD Enable pin to digital pin 11
+•	LCD D4 pin to digital pin 5
+•	LCD D5 pin to digital pin 4
+•	LCD D6 pin to digital pin 3
+•	LCD D7 pin to digital pin 2
+•	LCD R/W pin to ground
+•	LCD VSS pin to ground
+•	LCD VCC pin to 5V
+•	ends to +5V and ground
+•	wiper to LCD VO pin (pin 3)
+•	Here we have used the potentiometer in the circuit to control the contrast of the display. We can change easily the contrast of the display by varying the resistance present in the potentiometer.
+
+PROBLEMS AND TROUBLESHOOTING: 
+•Due to the wrong connection of the like the connection of the pins of the LCD to wrong ports of the Arduino, the LCD was not glowing.
+By correcting the connection we have solve that problem.
+•Sometime the COM port of the Arduino creates problem. So we have checked it thoroughly for the proper connection with the computer.
+                   
+
+PRECAUTION:
+•	Checking the continuity of the current flowing through the circuit. 
+•	Resistance of the resistor should be correctly calculated for proper reading.
+•	Potentiometer should be properly work and end wires of the potentiometer should be 	connected to the GND and 5 V port.
+
+LEARNING OUTCOMES
+By doing this experiment we learned how to use LCD.
+
+RESULT
+After uploading the desired code in the Arduino, "WISH YOU A VERY HAPPY DIWALI" is display on the screen of the LCD. 
