@@ -1,0 +1,11 @@
+THEORY:
+In this experiment we learned how to use ultrasonic detector in arduino, the sensor detects if there is something close to it and by using the sonar it tells by how much far it is. 
+
+PROBLEMS AND TROUBLESHOOTING:
+There are few problems e when connecting the wires and led on breadboard, if you are not clear with the working of bread board then it would be really difficult to connect.  Then there is coding, you just need to know the basic coding, then it won’t be that difficult.
+
+PRECAUTIONS:
+The connections on breadboard should be done carefully, otherwise the LED might not blink. If there is any semantic mistake in the code then the LED won’t glow too, so it’s better to code with free and open mind.
+
+LEARNING OUTCOMES:
+In this experiment we learn the usage of sonar as distance detector, to tell us how much far an object is from the circuit.
