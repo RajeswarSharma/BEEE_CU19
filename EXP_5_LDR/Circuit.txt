@@ -1,0 +1,12 @@
+THEORY:
+In this experiment we learned how to use LDR i.e. photo resistor in this case, the photo resistor detects the light, if it is receiving light then it inputs some value.
+
+PROBLEMS AND TROUBLESHOOTING:
+There are few problems e when connecting the wires and led on breadboard, if you are not clear with the working of bread board then it would be really difficult to connect.  Then there is coding, you just need to know the basic coding, then it won’t be that difficult.
+
+PRECAUTIONS:
+The connections on breadboard should be done carefully, otherwise the LED might not blink. If there is any semantic mistake in the code then the LED won’t glow too, so it’s better to code with free and open mind.
+
+
+LEARNING OUTCOMES:
+In this experiment we learn the usage of sonar LDR, when there is light then the LDR takes the input and we use it to turn off the light, but when it is not receiving any light then the LED glows.
